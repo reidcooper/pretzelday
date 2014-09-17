@@ -2,7 +2,7 @@ require 'date'
 require 'mail'
 
 # Replace the 'x' with your own information
-# If using gmail, make sure you use an application specific password
+# If using gmail, make sure you use an application password
 email = 'x'
 user_name = 'x'
 password = 'x'
